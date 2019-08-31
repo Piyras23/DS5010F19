@@ -30,7 +30,7 @@ The course is a hands-on introduction to the fundamentals of computer science an
 |11/14/2019 |Numpy, Pandas, Matplotlib                  |                                       |                                                                                |                                               |
 |11/21/2019 |Numpy, Pandas, Matplotlib                  |                                       |[PA5](http://www.hackerrank.com/ds5010f19-pa5)|                                               |
 |11/28/2019 |Thanksgiving Break                        |                                       |                                                                                |                                               |
-|12/05/2019 |Unit testing                               |                                       |                                                                                |                                               |
+|12/05/2019 |An overview of R language                 |                                       |                                                                                |                                               |
 
 
 ## TextBook
@@ -39,10 +39,10 @@ There is no formal required textbook for this course, but the following book may
 - Learning Python. Mark Lutz. O'Reilly Media, 2013.
 
 ## Reading
-I will post links to some articles which cover the topics that we discuss in class.
+I will post links to some articles which cover the topics that we discuss in class [here](docs/readings.md).
 
 ## Grading
-Grades will be based on finger exercises (20%), programming assignments (35%), midterm (20%), final (20%), and quizzes (5%).
+Grades will be based on finger exercises (20%), programming assignments (40%), midterm (20%), final (20%).
 
 ## HackerRank
 Most of the exercises and assignments for this course are given as [HackerRank](http://hackerrank.com) challenges. You should sign up in hackerrank with a username that **I will** give to you. 
@@ -63,6 +63,7 @@ Registered students are divided into ? houses (?). Approximately every other wee
 Also the individual who gets the first place (we use the average rank in all the competitions), will get a $50 cash prize :D
 
 ## Course Policy
-- We will not take attendance in class. You can skip any sessions that you think you already are well familiar with the topics that are going to be covered. Just as the quizzes are online, if you skip class, you have to do the quiz in its allocated time. The link to quizzes will be posted online, so you should watch for that.
+- We will not take attendance in class. You can skip any sessions that you think you already are well familiar with the topics that are going to be covered.
 - You can search the internet as much as you want, even during contests and exams! This is what you will do in the real world, and it is my responsibility to not give you something which is easily accessible online!
 - You can collaborate with any of your house members. But you **CANNOT** submit a same code for FEs and PAs (but you can do that for HCs)! In other words, you can talk about ideas, but each student should do the implementations by themselves.
+- The deadlines are strict. No late submissions will be accepted.
