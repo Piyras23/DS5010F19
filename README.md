@@ -10,7 +10,7 @@
 
 ## Course Description
 
-The course is a hands-on introduction to the fundamentals of programming for data sciences using Python as the main programming language. The course encompasses programming basics such as functions, data structures, and complexity theory; and their use in design and implementation of data science applications. Fundamentals of discrete mathematics for programming with data will be introduced where appropriate.
+The course is a hands-on introduction to the fundamentals of computer science and programming for data sciences using Python as the main programming language. The course encompasses programming basics such as functions, classes, data structures, and complexity theory; and their use in design and implementation of data science applications. Fundamentals of discrete mathematics for programming with data will be introduced where appropriate.
 
 
 ## Tentative Schedule
@@ -26,15 +26,15 @@ The course is a hands-on introduction to the fundamentals of programming for dat
 |10/17/2019 |Mid-Term                                   |                                              |                                                                          |                                               |
 |10/24/2019 |Advanced Data structures (linked list, stack, queue, hashtable)|[FE7](http://www.hackerrank.com/ds5010f19-fe7)|                                                      | [HC4](http://www.hackerrank.com/ds5010f19-hc4)|
 |10/31/2019 |Advanced Data structures (Trees and Graphs)|[FE8](http://www.hackerrank.com/ds5010f19-fe8)|[PA4](http://www.hackerrank.com/ds5010f19-pa4)|                                               |
-|11/07/2019 |Algorithm effeciency                       |[FE9](http://www.hackerrank.com/ds5010f19-fe9)|                                                                          | [HC5](http://www.hackerrank.com/ds5010f19-hc5)|
+|11/07/2019 |Algorithm efficiency                       |[FE9](http://www.hackerrank.com/ds5010f19-fe9)|                                                                          | [HC5](http://www.hackerrank.com/ds5010f19-hc5)|
 |11/14/2019 |Numpy, Pandas, Matplotlib                  |                                       |                                                                                |                                               |
 |11/21/2019 |Numpy, Pandas, Matplotlib                  |                                       |[PA5](http://www.hackerrank.com/ds5010f19-pa5)|                                               |
-|11/28/2019 |Thanks Giving Break                        |                                       |                                                                                |                                               |
+|11/28/2019 |Thanksgiving Break                        |                                       |                                                                                |                                               |
 |12/05/2019 |Unit testing                               |                                       |                                                                                |                                               |
 
 
 ## TextBook
-There is no formal required text book for this course, but the following book may be helpful to give you a solid knowledge of programming with Python.
+There is no formal required textbook for this course, but the following book may be helpful to give you a solid knowledge of programming with Python.
 
 - Learning Python. Mark Lutz. O'Reilly Media, 2013.
 
@@ -42,25 +42,27 @@ There is no formal required text book for this course, but the following book ma
 I will post links to some articles which cover the topics that we discuss in class.
 
 ## Grading
-Grades will be based on finger exercises (20%), programming assignments (40%), midterm (20%), and final (20%).
+Grades will be based on finger exercises (20%), programming assignments (35%), midterm (20%), final (20%), and quizzes (5%).
+
+## HackerRank
+Most of the exercises and assignments for this course are given as [HackerRank](http://hackerrank.com) challenges. You should sign up in hackerrank with a username that **I will** give to you. 
 
 ## Finger Exercises (FE)
-After each session, students have to complete all the challenges that are included in a linked HackerRank contest. These challenges are mostly simple problems which cover the topics we have discussed in a session, and usually they can be solved with a few lines of code.
+After each session, students have to complete all the challenges that are included in a linked HackerRank contest. These challenges are mostly some simple problems which cover the topics we have discussed in the session, and usually they can be solved with a few lines of code.
 
-The FE challenges will be graded in a binary fasion. You get the total score for a challenge if you are able to pass all the test cases, or otherwise you'll get 0 for that challenge.
+The FE challenges will be graded in a binary fashion. You get the total score for a challenge if you are able to pass all of its test cases, otherwise you'll get a 0 for that challenge.
 
 ## Programming Assignments  (PA)
-We have total of 5 programming assignments. The problems that you will solve in these assignments need more time and effort to complete and solve.
+We have a total of 5 programming assignments. The problems that you will solve in these assignments need more time and effort to complete and solve. You will hand-in your PAs through HackerRank contests as well.
 
 ## House Competitions (HC)
-Registered students are divided into ? houses (?). Every other weekend, we will have a programming contest. At the end of semester all the members of the house that on average performed better than other houses in the contests will get the following prize:
+Registered students are divided into ? houses (?). Approximately every other weekend, we will have a programming contest. At the end of the semester all the members of the house that on average performed better than the other houses in the contests will get the following prize:
 
-- Their final letter grade will go up one step. For example, if you are a member of the winner house, and you got **B+** at the end of semester, your grade will be passed as **A**.
+- Their final letter grade will go a level up. For example, if you are a member of the winner house, and you've gotten **B+**, then your grade will be passed as **A-**.
 
-Also the individual who performes the best between others in the competitions, will get a $50 cash prize at the end of semester :D
+Also the individual who gets the first place (we use the average rank in all the competitions), will get a $50 cash prize :D
 
 ## Course Policy
-- We will not take attendance in class. You can skip any sessions that you think you already are well familiar with the topics that are going to be covered. As the quizes are online, if you skip the class, you have to do the quiz in its specified time. The link to quizes will be posted online.
-- You can search the internet as much as you want, even during contests and exams! This is what you will do in real world, and it is my responsibility to not give you something which is easily accessible online!
+- We will not take attendance in class. You can skip any sessions that you think you already are well familiar with the topics that are going to be covered. Just as the quizzes are online, if you skip class, you have to do the quiz in its allocated time. The link to quizzes will be posted online, so you should watch for that.
+- You can search the internet as much as you want, even during contests and exams! This is what you will do in the real world, and it is my responsibility to not give you something which is easily accessible online!
 - You can collaborate with any of your house members. But you **CANNOT** submit a same code for FEs and PAs (but you can do that for HCs)! In other words, you can talk about ideas, but each student should do the implementations by themselves.
-
