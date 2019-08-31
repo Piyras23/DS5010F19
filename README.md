@@ -39,7 +39,7 @@ There is no formal required textbook for this course, but the following book may
 - Learning Python. Mark Lutz. O'Reilly Media, 2013.
 
 ## Reading
-I will post links to some articles which cover the topics that we discuss in class [here](docs/readings.md).
+I will post links to some articles which cover the topics that we discuss in class [here](readings.md).
 
 ## Grading
 Grades will be based on finger exercises (20%), programming assignments (40%), midterm (20%), final (20%).
