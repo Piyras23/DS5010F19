@@ -15,19 +15,19 @@ The course is a hands-on introduction to the fundamentals of computer science an
 
 ## Tentative Schedule
 
-|Date       |Topics                                     |Finger Exercises                       |Programming Assignments|Codeditch Competitions|
+|Date       |Topics                                     |Finger Exercises                       |Programming Assignments|House Competitions|
 |:---------:|:-----------------------------------------:|:-------------------------------------:|:---------------------:|:----------------:|
 |09/05/2019 |basic objects, operations, conditionals, IO|[FE1](http://www.hackerrank.com/ds5010f19-fe1)|                                                                          |                                               |
-|09/12/2019 |basic data structures,Files, iterations    |[FE2](http://www.hackerrank.com/ds5010f19-fe2)|[PA1](http://www.hackerrank.com/ds5010f19-pa1)| [CC1](http://www.hackerrank.com/ds5010f19-cc1)|
+|09/12/2019 |basic data structures,Files, iterations    |[FE2](http://www.hackerrank.com/ds5010f19-fe2)|[PA1](http://www.hackerrank.com/ds5010f19-pa1)| [HC1](http://www.hackerrank.com/ds5010f19-hc1)|
 |09/19/2019 |functions, modules                         |[FE3](http://www.hackerrank.com/ds5010f19-fe3)|                                                                          |                                               |
-|09/26/2019 |Recursion, Divide and conquer              |[FE4](http://www.hackerrank.com/ds5010f19-fe4)|[PA2](http://www.hackerrank.com/ds5010f19-pa2)| [CC2](http://www.hackerrank.com/ds5010f19-cc2)|
+|09/26/2019 |Recursion, Divide and conquer              |[FE4](http://www.hackerrank.com/ds5010f19-fe4)|[PA2](http://www.hackerrank.com/ds5010f19-pa2)| [HC2](http://www.hackerrank.com/ds5010f19-hc2)|
 |10/03/2019 |Classes and OOP                            |[FE5](http://www.hackerrank.com/ds5010f19-fe5)|                                                                          |                                               |
-|10/10/2019 |Classes and OOP + LinkedList, Stack, Queue, HashTable|[FE6](http://www.hackerrank.com/ds5010f19-fe6)|[PA3](http://www.hackerrank.com/ds5010f19-pa3)| [CC3](http://www.hackerrank.com/ds5010f19-cc3)|
+|10/10/2019 |Classes and OOP + LinkedList, Stack, Queue, HashTable|[FE6](http://www.hackerrank.com/ds5010f19-fe6)|[PA3](http://www.hackerrank.com/ds5010f19-pa3)| [HC3](http://www.hackerrank.com/ds5010f19-hc3)|
 |10/17/2019 |Mid-Term                                   |                                              |                                                                          |                                               |
-|10/24/2019 |Advanced Data structures (Trees and Graphs)|[FE7](http://www.hackerrank.com/ds5010f19-fe7)|                                                      | [CC4](http://www.hackerrank.com/ds5010f19-cc4)|
+|10/24/2019 |Advanced Data structures (Trees and Graphs)|[FE7](http://www.hackerrank.com/ds5010f19-fe7)|                                                      | [HC4](http://www.hackerrank.com/ds5010f19-hc4)|
 |10/31/2019 |Trees and Graphs Applications              |[FE8](http://www.hackerrank.com/ds5010f19-fe8)|[PA4](http://www.hackerrank.com/ds5010f19-pa4)|                                               |
 |11/07/2019 |Algorithm efficiency                       |[FE9](http://www.hackerrank.com/ds5010f19-fe9)|                                                                          |                                               |
-|11/14/2019 |Dynamic Programming                        |                                       |                                                                                |[CC5](http://www.hackerrank.com/ds5010f19-cc5) |
+|11/14/2019 |Dynamic Programming                        |                                       |                                                                                |[HC5](http://www.hackerrank.com/ds5010f19-hc5) |
 |11/21/2019 |Numpy, Pandas, Matplotlib                  |                                       |[PA5](http://www.hackerrank.com/ds5010f19-pa5)|                                               |
 |11/28/2019 |Thanksgiving Break                        |                                       |                                                                                |                                               |
 |12/05/2019 |An overview of R language                 |                                       |                                                                                |                                               |
@@ -55,15 +55,16 @@ The FE challenges will be graded in a binary fashion. You get the total score fo
 ## Programming Assignments  (PA)
 We have a total of 5 programming assignments. The problems that you will solve in these assignments need more time and effort to complete and solve. You will hand-in your PAs through HackerRank contests as well.
 
-## Codeditch Competitions (CC)
-Registered students are divided into ? houses (?). Approximately every other weekend, we will have a programming contest which is called a Codeditch (driven from quidditch with a bad taste 🙈). At the end of the semester all the members of the house that on average performed better than the other houses in the contests will get the following prize:
+## House Competitions (HC)
+Registered students are divided into ? houses (?). Approximately every other weekend, we will have a programming contest. At the end of the semester all the members of the house that on average performed better than the other houses in the contests will get the following prize:
 
 - Their final letter grade will go a level up. For example, if you are a member of the winner house, and you've gotten **B+**, then your grade will be passed as **A-**.
 
-Also the individual who gets the first place (we use the average rank in all the competitions), will get a $50 cash prize 🏆
+Also the individual who wins the iron throne (first place with respect to the average rank in all the competitions), will get a $50 cash prize 🏆
 
 ## Course Policy
 - We will not take attendance in class. You can skip any sessions that you think you already are well familiar with the topics that are going to be covered.
 - You can search the internet as much as you want, even during contests and exams! This is what you will do in the real world, and it is my responsibility to not give you something which is easily accessible online!
 - You can collaborate with any of your house members. But you **CANNOT** submit a same code for FEs and PAs (but you can do that for HCs)! In other words, you can talk about ideas, but each student should do the implementations by themselves.
 - The deadlines are strict. No late submissions will be accepted.
+- Participating in House Competitions is not mandatory.
