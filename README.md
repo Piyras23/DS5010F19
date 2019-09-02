@@ -10,7 +10,7 @@
 
 ## Course Description
 
-The course is a hands-on introduction to the fundamentals of computer science and programming for data sciences using Python as the main programming language. The course encompasses programming basics such as functions, classes, data structures, and complexity theory; and their use in design and implementation of data science applications. Fundamentals of discrete mathematics for programming with data will be introduced where appropriate.
+This course is a hands-on introduction to the fundamentals of computer science and programming for data sciences using Python as the main programming language. The course encompasses programming basics such as functions, classes, data structures, and complexity theory; and their use in design and implementation of data science applications. Fundamentals of discrete mathematics for programming with data will be introduced where appropriate.
 
 
 ## Tentative Schedule
@@ -65,6 +65,6 @@ Also the individual who wins the iron throne (first place with respect to the av
 ## Course Policy
 - We will not take attendance in class. You can skip any sessions that you think you already are well familiar with the topics that are going to be covered.
 - You can search the internet as much as you want, even during contests and exams! This is what you will do in the real world, and it is my responsibility to not give you something which is easily accessible online!
-- You can collaborate with any of your house members. But you **CANNOT** submit a same code for FEs and PAs (but you can do that for HCs)! In other words, you can talk about ideas, but each student should do the implementations by themselves.
+- You can collaborate with any of your house members. But you **CANNOT** submit the same code for FEs and PAs (but you can do that for HCs)! In other words, you can talk about ideas, but each student should do the implementations by themselves.
 - The deadlines are strict. No late submissions will be accepted.
 - Participating in House Competitions is not mandatory.
