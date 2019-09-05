@@ -2,7 +2,7 @@
 
 **Instructor**: Ehsan RahimiNasab
 
-**Time**: Thursdays 6:00 - 9:15 PM
+**Time**: Thursdays 6 - 9 PM
 
 **Location**: Behrakis Health Sciences Cntr 105
 
