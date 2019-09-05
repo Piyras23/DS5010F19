@@ -8,7 +8,7 @@
 
 **Office Hours and Location**: TBD
 
-**Piazza**: https://piazza.com/class/k05wuruljap2pl
+**Piazza**: [forum link](https://piazza.com/class/k05wuruljap2pl)
 
 ## Course Description
 
