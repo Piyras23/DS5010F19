@@ -8,6 +8,8 @@
 
 **Office Hours and Location**: TBD
 
+**Piazza**: https://piazza.com/class/k05wuruljap2pl
+
 ## Course Description
 
 This course is a hands-on introduction to the fundamentals of computer science and programming for data sciences using Python as the main programming language. The course encompasses programming basics such as functions, classes, data structures, and complexity theory; and their use in design and implementation of data science applications. Fundamentals of discrete mathematics for programming with data will be introduced where appropriate.
