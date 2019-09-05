@@ -1,10 +1,10 @@
-# Fundamentals of Algorithms and Programming for Data Science
+# Intro to Programming for Data Science
 
 **Instructor**: Ehsan RahimiNasab
 
 **Time**: Thursdays 6:00 - 9:15 PM
 
-**Location**: Kariotis Hall 005
+**Location**: Behrakis Health Sciences Cntr 105
 
 **Office Hours and Location**: TBD
 
@@ -30,7 +30,7 @@ This course is a hands-on introduction to the fundamentals of computer science a
 |11/14/2019 |Dynamic Programming                        |                                       |                                                                                |[HC5](http://www.hackerrank.com/ds5010f19-hc5) |
 |11/21/2019 |Numpy, Pandas, Matplotlib                  |                                       |[PA5](http://www.hackerrank.com/ds5010f19-pa5)|                                               |
 |11/28/2019 |Thanksgiving Break                        |                                       |                                                                                |                                               |
-|12/05/2019 |An overview of R language                 |                                       |                                                                                |                                               |
+|12/05/2019 |Final                                     |                                       |                                                                                |                                               |
 
 
 ## TextBook
@@ -48,7 +48,7 @@ Grades will be based on finger exercises (20%), programming assignments (40%), m
 Most of the exercises and assignments for this course are given as [HackerRank](http://hackerrank.com) challenges. You should sign up in hackerrank with a username that **I will** give to you. 
 
 ## Finger Exercises (FE)
-After each session, students have to complete all the challenges that are included in a linked HackerRank contest. These challenges are mostly some simple problems which cover the topics we have discussed in the session, and usually they can be solved with a few lines of code.
+During each session, we will try to practice what we have learned by doing a number of challenges that are included in a linked HackerRank contest. Usually these challenges can be solved with a few lines of code. If we cannot complete all the challenges in a session, the students have to do the rest after the class.
 
 The FE challenges will be graded in a binary fashion. You get the total score for a challenge if you are able to pass all of its test cases, otherwise you'll get a 0 for that challenge.
 
@@ -56,11 +56,11 @@ The FE challenges will be graded in a binary fashion. You get the total score fo
 We have a total of 5 programming assignments. The problems that you will solve in these assignments need more time and effort to complete and solve. You will hand-in your PAs through HackerRank contests as well.
 
 ## House Competitions (HC)
-Registered students are divided into ? houses (?). Approximately every other weekend, we will have a programming contest. At the end of the semester all the members of the house that on average performed better than the other houses in the contests will get the following prize:
+Registered students are divided into 5 houses (Stark, Baratheon, Lannister, Targaryen, and Martell), and each students should have gotten an alias name which is a famous character name from Game of Thrones!! Approximately every other weekend, we will have a programming contest. At the end of the semester all the members of the house that on average performed better than the other houses in the contests will get the following prize:
 
 - Their final letter grade will go a level up. For example, if you are a member of the winner house, and you've gotten **B+**, then your grade will be passed as **A-**.
 
-Also the individual who wins the iron throne (first place with respect to the average rank in all the competitions), will get a $50 cash prize 🏆
+Also the individual who wins the iron throne (first place with respect to the average rank in all the competitions), will get a prize 🏆  which will be announced later.
 
 ## Course Policy
 - We will not take attendance in class. You can skip any sessions that you think you already are well familiar with the topics that are going to be covered.
