@@ -70,3 +70,7 @@ Also the individual who wins the iron throne (first place with respect to the av
 - You can collaborate with any of your house members. But you **CANNOT** submit the same code for FEs and PAs (but you can do that for HCs)! In other words, you can talk about ideas, but each student should do the implementations by themselves.
 - The deadlines are strict. No late submissions will be accepted.
 - Participating in House Competitions is not mandatory.
+
+## Attribution
+The slides for the early sessions are mostly based on the materials from this [course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), under [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
