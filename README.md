@@ -72,5 +72,5 @@ Also the individual who wins the iron throne (first place with respect to the av
 - Participating in House Competitions is not mandatory.
 
 ## Attribution
-The slides for the early sessions are mostly based on the materials from this [course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), under [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+The slides for the early sessions are mostly based on the materials from this [course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), and are used under [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
