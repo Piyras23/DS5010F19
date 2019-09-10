@@ -20,8 +20,8 @@ This course is a hands-on introduction to the fundamentals of computer science a
 |Date       |Topics                                     |Finger Exercises                       |Programming Assignments|House Competitions|
 |:---------:|:-----------------------------------------:|:-------------------------------------:|:---------------------:|:----------------:|
 |09/05/2019 |basic objects, operations, conditionals, IO|[FE1](http://www.hackerrank.com/ds5010f19-fe1)|                                                                          |                                               |
-|09/12/2019 |basic data structures,Files, iterations, combinatorics    |[FE2](http://www.hackerrank.com/ds5010f19-fe2)|[PA1](http://www.hackerrank.com/ds5010f19-pa1)| [HC1](http://www.hackerrank.com/ds5010f19-hc1)|
-|09/19/2019 |functions, modules                         |[FE3](http://www.hackerrank.com/ds5010f19-fe3)|                                                                          |                                               |
+|09/12/2019 |basic data structures,Files, iterations    |[FE2](http://www.hackerrank.com/ds5010f19-fe2)|[PA1](http://www.hackerrank.com/ds5010f19-pa1)| [HC1](http://www.hackerrank.com/ds5010f19-hc1)|
+|09/19/2019 |functions, modules, combinatorics          |[FE3](http://www.hackerrank.com/ds5010f19-fe3)|                                                                          |                                               |
 |09/26/2019 |Recursion, Divide and conquer              |[FE4](http://www.hackerrank.com/ds5010f19-fe4)|[PA2](http://www.hackerrank.com/ds5010f19-pa2)| [HC2](http://www.hackerrank.com/ds5010f19-hc2)|
 |10/03/2019 |Classes and OOP                            |[FE5](http://www.hackerrank.com/ds5010f19-fe5)|                                                                          |                                               |
 |10/10/2019 |Classes and OOP + LinkedList, Stack, Queue, HashTable|[FE6](http://www.hackerrank.com/ds5010f19-fe6)|[PA3](http://www.hackerrank.com/ds5010f19-pa3)| [HC3](http://www.hackerrank.com/ds5010f19-hc3)|
